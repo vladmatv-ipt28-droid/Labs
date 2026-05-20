@@ -1,4 +1,5 @@
-vhi_data_files/
-*.csv
-pycache/
-.streamlit/
+build/
+*.o
+*.exe
+*.out
+.DS_Store
