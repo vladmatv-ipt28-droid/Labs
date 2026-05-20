@@ -1,24 +1,4 @@
-# IDE
-.vscode/
-.idea/
-*.swp
-
-# Python
-__pycache__/
-*.pyc
-venv/
-.env
-
-# C++
-build/
-*.o
-*.exe
-
-# Data
+vhi_data_files/
 *.csv
-*.txt
-*.db
-
-# OS
-.DS_Store
-Thumbs.db
+pycache/
+.streamlit/
