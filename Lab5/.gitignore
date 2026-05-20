@@ -1,0 +1,4 @@
+vhi_data_files/
+*.csv
+pycache/
+.streamlit/
