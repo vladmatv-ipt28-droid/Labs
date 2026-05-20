@@ -1,0 +1,3 @@
+C:/Users/pmatv/OneDrive/Desktop/4 семестр/ЗПАД/Lab7/build/CMakeFiles/lab7.dir
+C:/Users/pmatv/OneDrive/Desktop/4 семестр/ЗПАД/Lab7/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pmatv/OneDrive/Desktop/4 семестр/ЗПАД/Lab7/build/CMakeFiles/ZERO_CHECK.dir

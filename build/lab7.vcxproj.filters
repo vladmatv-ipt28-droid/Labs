@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pmatv\OneDrive\Desktop\4 семестр\ЗПАД\Lab7\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pmatv\OneDrive\Desktop\4 семестр\ЗПАД\Lab7\src\CameraProvider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pmatv\OneDrive\Desktop\4 семестр\ЗПАД\Lab7\src\KeyProcessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pmatv\OneDrive\Desktop\4 семестр\ЗПАД\Lab7\src\FrameProcessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pmatv\OneDrive\Desktop\4 семестр\ЗПАД\Lab7\src\Display.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pmatv\OneDrive\Desktop\4 семестр\ЗПАД\Lab7\src\FaceDetector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pmatv\OneDrive\Desktop\4 семестр\ЗПАД\Lab7\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8E468F84-D3D2-3FDC-B642-26F075B24FBD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
